@@ -80,27 +80,17 @@ MongoDB
 
 ---
 
-## Technical Skills
 
-**Languages**
-`Python` · `JavaScript` · `C` · `SQL`
+## TECHNICAL SKILLS
 
-**Software Development**
-`Node.js` · `Express.js` · `FastAPI` · `REST APIs` · `React`
+**Languages:** Java, Python, C, JavaScript, SQL
+**AI / LLM:** LLM Integration, Prompt Engineering, RAG, Semantic Search, Embeddings
+**Backend & APIs:** REST APIs, FastAPI, Node.js, Express.js, JSON, JWT Authentication
+**Databases:** MySQL (SQL), MongoDB, ChromaDB (Vector DB)
+**Web Technologies:** HTML, CSS, JavaScript, React
+**Core CS:** DSA, OOP, DBMS, Operating Systems, Computer Networks
+**Tools:** Git, GitHub, VS Code, Docling, Postman
 
-**Databases**
-`MongoDB` · `MySQL`
-
-**AI / GenAI**
-`RAG` · `LLM APIs` · `Embeddings` · `Vector Search` · `Prompt Engineering`
-
-**Core CS**
-`Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks`
-
-**Tools & Platforms**
-`Git` · `GitHub` · `Postman` · `Google Drive API`
-
----
 
 ## Featured Projects
 
