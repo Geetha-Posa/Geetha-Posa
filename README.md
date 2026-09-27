@@ -76,21 +76,23 @@ MongoDB
 
 **Architecture:** `React` · `Node.js` · `Express.js` · `MongoDB` · `Python` · `FastAPI` · `Docling` · `Gemini` · `ChromaDB`
 
-[GitHub Repository →](https://github.com/Geetha-Posa/WorkSphere)
+[**GitHub Repository →**](https://github.com/Geetha-Posa/WorkSphere)
 
 ---
 
+## Technical Skills
 
-## TECHNICAL SKILLS
+| Category             | Technologies                                                              |
+| -------------------- | ------------------------------------------------------------------------- |
+| **Languages**        | Java · Python · C · JavaScript · SQL                                      |
+| **AI / LLM**         | LLM Integration · Prompt Engineering · RAG · Semantic Search · Embeddings |
+| **Backend & APIs**   | REST APIs · FastAPI · Node.js · Express.js · JSON · JWT Authentication    |
+| **Databases**        | MySQL (SQL) · MongoDB · ChromaDB (Vector DB)                              |
+| **Web Technologies** | HTML · CSS · JavaScript · React                                           |
+| **Core CS**          | DSA · OOP · DBMS · Operating Systems · Computer Networks                  |
+| **Tools**            | Git · GitHub · VS Code · Docling · Postman                                |
 
-**Languages:** Java, Python, C, JavaScript, SQL
-**AI / LLM:** LLM Integration, Prompt Engineering, RAG, Semantic Search, Embeddings
-**Backend & APIs:** REST APIs, FastAPI, Node.js, Express.js, JSON, JWT Authentication
-**Databases:** MySQL (SQL), MongoDB, ChromaDB (Vector DB)
-**Web Technologies:** HTML, CSS, JavaScript, React
-**Core CS:** DSA, OOP, DBMS, Operating Systems, Computer Networks
-**Tools:** Git, GitHub, VS Code, Docling, Postman
-
+---
 
 ## Featured Projects
 
@@ -105,9 +107,9 @@ MongoDB
 * Implemented MongoDB task persistence with **idempotent file processing** using unique Google Drive file IDs
 * Designed the upcoming retrieval and ranking layer around **ChromaDB, semantic similarity, expertise, and historical performance**
 
-**Stack:** React · Node.js · Express.js · MongoDB · Python · FastAPI · Docling · Gemini · ChromaDB
+**Stack:** `React` · `Node.js` · `Express.js` · `MongoDB` · `Python` · `FastAPI` · `Docling` · `Gemini` · `ChromaDB`
 
-[GitHub Repository →](https://github.com/Geetha-Posa/WorkSphere)
+[**GitHub Repository →**](https://github.com/Geetha-Posa/WorkSphere)
 
 ---
 
@@ -120,9 +122,9 @@ MongoDB
 * Designed MongoDB collections for **Products, Inventory, Cart, and Orders**
 * Implemented product management, inventory updates, cart operations, and order tracking
 
-**Stack:** Node.js · Express.js · MongoDB · REST APIs
+**Stack:** `Node.js` · `Express.js` · `MongoDB` · `REST APIs`
 
-[GitHub Repository →](https://github.com/Geetha-Posa/FarmToFork)
+[**GitHub Repository →**](https://github.com/Geetha-Posa/FarmToFork)
 
 ---
 
