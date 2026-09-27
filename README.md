@@ -83,7 +83,6 @@ Full-stack marketplace with role-based Farmer & Consumer portals, 15+ REST APIs 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geetha-Posa&layout=compact" height="165"/>
 </p>
 
-> 💡 Replace `Geetha-Posa` with your actual GitHub username in the three lines above for these to work.
 
 ---
 
